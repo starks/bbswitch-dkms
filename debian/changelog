@@ -1,0 +1,23 @@
+bbswitch (1.0-3) oneiric; urgency=low
+
+  * Actually build bbswitch.ko
+
+ -- Eric Appleman <erappleman@gmail.com>  Tue, 18 Oct 2011 23:30:04 +0200
+
+bbswitch (1.0-2) oneiric; urgency=low
+
+  * Test3
+
+ -- Eric Appleman <erappleman@gmail.com>  Tue, 18 Oct 2011 23:30:04 +0200
+
+bbswitch (1.0-1) oneiric; urgency=low
+
+  * Test2
+
+ -- Eric Appleman <erappleman@gmail.com>  Tue, 18 Oct 2011 23:30:04 +0200
+
+bbswitch (1.0) oneiric; urgency=low
+
+  * Test
+
+ -- Eric Appleman <erappleman@gmail.com>  Tue, 18 Oct 2011 23:30:04 +0200

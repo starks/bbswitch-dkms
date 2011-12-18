@@ -1,0 +1,19 @@
+Source: bbswitch
+Section: kernel
+Priority: optional
+Maintainer: Eric Appleman <erappleman@gmail.com>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.9.1
+
+Package: bbswitch-modules-_KVERS_
+Architecture: any
+Provides: bbswitch-modules
+Description: acpi_call modules for Linux (kernel _KVERS_).
+ This package contains the set of loadable kernel modules for acpi_call.
+ .
+ This package contains the compiled kernel modules for _KVERS_
+ .
+ If you have compiled your own kernel, you will most likely need to build
+ your own bbswitch-modules. The bbswitch-source package has been
+ provided for use with the Debian's module-assistant or kernel-package
+ utilities to produce a version of bbswitch-modules for your kernel.
